@@ -6,3 +6,5 @@ Then, I got into the nitty-gritty of data analysis using SQL's RMF technique. It
 The icing on the cake was using Tableau for visualizations. I created excellent charts and graphs that make the data easy to understand. You can see trends, like which types of channels are doing well, and even interact with the visuals.
 
 My GitHub repository is like a diary of my journey. I've documented everything from fixing data mishaps to creating visual magic with Tableau. If you're just starting in data analysis or curious about YouTube insights, my project is a great place to learn and explore. Come join me in decoding the world of YouTube data!" 📊📁
+
+Here is the Dashboard Link to Tableau Public YoutubeStats_Analysis: https://public.tableau.com/app/profile/krish.doshi5759/viz/YoutubeStat_Analysis/YoutubeStatsDash1#1
